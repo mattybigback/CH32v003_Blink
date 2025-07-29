@@ -8,7 +8,7 @@
 #include <stdint.h>
 
 #define LED_PIN   PC4
-#define BLINK_MS  500
+#define BLINK_MS  250
 
 
 static inline uint32_t millis(void) {
